@@ -18,4 +18,8 @@ How many Vine reviews and non-Vine reviews were there?
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?  
 * zero
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?  
-* 37.4% unpaid 5 star reviews
+* 37.4% unpaid 5 star reviews  
+
+## Summary  
+
+Due to a small sample size it is hard to compare paid versus unpaid Vine reviews. The results show a bias for unpaid reviews, this result can be see with the 5 star reviews as well, showing 37% of unpaid 5 star reviews and 0% for paid.
